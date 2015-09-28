@@ -1,3 +1,20 @@
+FSE-2012-abb-Transformation
+Automating adaptive maintenance changes with SrcML and LINQ
+
+This repository contains information related to the tool ABB Transformation tool presented in the FSE '12 Proceedings of the ACM SIGSOFT 20th International Symposium on the Foundations of Software Engineering
+
+This repository is not the original repository for this tool. Here are some links to the original project:
+
+The Official Project Page, not including source code
+A Video of the Tool
+In this repository, for ExampleTool you will find:
+
+:white_check_mark: Source code
+:white_check_mark: The original tool
+:white_check_mark: A slightly modified version of the tool [Sudha Manchukonda](https://github.com/Smanchu) got working
+This repository was constructed by [Sudha Manchukonda](https://github.com/Smanchu) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Vinay Augustine for his help in establishing this repository.
+
+Instructions
 # SrcML.NET
 
 This framework and associated tools are used within [ABB Corporate Research](http://www.abb.com/softwareresearch) to do both program transformation and code analysis.
@@ -98,3 +115,13 @@ Once you've done this, you're ready to use the add-in.
 7. Name your project and press `OK`.
 
 You now have a transformation project that you can use to query and transform C++ or Java projects. I've made a [sample transformation](https://github.com/abb-iss/NppTransformExample) available for you to try out. More documentation on using the add-in, writing transformations, and working with the framework is coming.
+
+
+
+Attribution
+
+Author of tool: Vinay Augustine
+
+Personal website: http://vinayaugustine.com
+
+
