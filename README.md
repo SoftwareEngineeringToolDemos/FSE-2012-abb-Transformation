@@ -4,7 +4,7 @@ Automating adaptive maintenance changes with SrcML and LINQ
 This repository contains information related to the tool ABB Transformation tool presented in the FSE '12 Proceedings of the ACM SIGSOFT 20th International Symposium on the Foundations of Software Engineering. The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?doid=2393596.2393604).
 
 
-This repository is not the original repository for this tool. Here are some links to the original project:
+This repository _is not_ the original repository for this tool. Here are some links to the original project:
 
 The Official Project Page, not including source code
 A Video of the Tool
