@@ -11,7 +11,7 @@ This repository _is not_ the original repository for this tool. Here are some li
 In this repository, for abb transformation you will find:
 * :white_check_mark: [Source code](https://github.com/SoftwareEngineeringToolDemos/FSE-2012-abb-Transformation)
 * :white_check_mark: [The original tool](https://github.com/SoftwareEngineeringToolDemos/FSE-2012-abb-Transformation/blob/master/SrcML.NET.proj)
-* :white_check_mark: A slightly modified version of the tool [Sudha Manchukonda](https://github.com/Smanchu) got working.
+
 This repository was constructed by [Sudha Manchukonda](https://github.com/Smanchu) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Vinay Augustine for his help in establishing this repository.
 
 Instructions
