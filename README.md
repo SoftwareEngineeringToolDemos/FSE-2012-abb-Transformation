@@ -6,7 +6,7 @@ This repository contains information related to the tool ABB Transformation tool
 
 This repository _is not_ the original repository for this tool. Here are some links to the original project:
 
-The Official Project Page, not including source code
+[The Official Project Page](http://dl.acm.org/citation.cfm?doid=2393596.2393604)
 A Video of the Tool
 In this repository, for ExampleTool you will find:
 
