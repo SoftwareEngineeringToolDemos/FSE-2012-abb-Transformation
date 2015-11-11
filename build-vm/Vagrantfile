@@ -65,7 +65,7 @@ Vagrant.configure(2) do |config|
   # Puppet, Chef, Ansible, Salt, and Docker are also available. Please see the
   # documentation for more information about their specific syntax and use.
    config.vm.provision "shell",
-    inline: "cd C:\\Users\\vagrant\\Desktop; mkdir visual_studio; cd visual_studio; wget -outf vs.exe download.microsoft.com/download/D/B/0/DB03922C-FF91-4845-B7F2-FC68595AB730/vs_ultimate.exe; wget -outf vs_sdk.exe https://download.microsoft.com/download/8/3/8/8387A8E1-E422-4DD5-B586-F1F2EC778817/vssdk_full.exe; Start-Process \"vs.exe\" -ArgumentList \"/Passive\" -Wait;Start-Process \"vs_sdk.exe\" -ArgumentList \"/Passive\" -Wait"  
+    inline: "cd C:\\Users\\vagrant\\Desktop; mkdir visual_studio; cd visual_studio; wget -outf vs.exe download.microsoft.com/download/D/B/0/DB03922C-FF91-4845-B7F2-FC68595AB730/vs_ultimate.exe; wget -outf vs_sdk.exe https://download.microsoft.com/download/8/3/8/8387A8E1-E422-4DD5-B586-F1F2EC778817/vssdk_full.exe; Start-Process \"vs.exe\" -ArgumentList \"/Q\" -Wait;Start-Process \"vs_sdk.exe\" -ArgumentList \"/Q\" -Wait"  
    #end
   # SHELL
 end
