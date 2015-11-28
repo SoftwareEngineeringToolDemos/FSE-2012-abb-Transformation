@@ -1,0 +1,8 @@
+1.Installing VS2012 and the VS2012 SDK.
+2. Git clone source code from the url : https://github.com/abb-iss/SrcML.NET.git
+3. Set the environment variable  SRCMLBINDIR  to  [Solution Path]\External\srcml 
+4. Build the the project from visual studio
+5.Copy the file  [Solution Path]\VisualStudio\ABB.SrcML.VisualStudio.PreviewAddIn\SrcMLPreviewAddin - For Testing.AddIn  to  [Your Home Directory]\My Documents\Visual Studio 2010\Addins .
+6.Copy the file  [Solution Path]\VisualStudio\Templates\ABB SrcML Transform Project.zip  to  [Your Home Directory]\My Documents\Visual Studio 2010\Templates\ProjectTemplates .
+7.Copy the file  [Solution Path]\VisualStudio\Templates\ABB SrcML Transform Class.zip  to  [Your Home Directory]\My Documents\Visual Studio 2010\Templates\ItemTemplates .
+ 
