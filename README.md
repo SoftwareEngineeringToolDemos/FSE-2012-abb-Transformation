@@ -6,9 +6,9 @@ This repository contains information related to the tool ABB Transformation tool
 
 This repository _is not_ the original repository for this tool. Here are some links to the original project:
 
-[The Official Project Page](http://dl.acm.org/citation.cfm?doid=2393596.2393604)
+The official project page is [The Official Project Page](http://dl.acm.org/citation.cfm?doid=2393596.2393604)
 
-* [The Original Download Page](https://github.com/abb-iss/SrcML.NET)
+Original download page can be found here [The Original Download Page](https://github.com/abb-iss/SrcML.NET)
 
 In this repository, for abb transformation you will find:
 * :white_check_mark: [Source code](https://github.com/SoftwareEngineeringToolDemos/FSE-2012-abb-Transformation)
